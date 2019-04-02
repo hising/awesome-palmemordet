@@ -6,8 +6,9 @@
 ## Articles
 * Filter - Skandiamannen https://magasinetfilter.se/reportage/59-minuter-som-forandrade-sverige/
 
-## Blogs
+## Blogs and Websites
 * https://gunnarwall.wordpress.com/
+* http://www.itdemokrati.nu/page36.html
 
 ## Documents
 * Granskningskommissionens betänkande i anledning av Brottsutredningen efter mordet på statsminister Olof Palme (SOU 1999:88) https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/1999/01/sou-199988--/
@@ -18,3 +19,6 @@
 * Gärningsmannaprofilen - (s. 111) https://gunnarwall.files.wordpress.com/2019/03/gmp-sid-111.pdf
 * Gärningsmannaprofilen - (s. 124-131) https://gunnarwall.files.wordpress.com/2019/03/gmp-sid-124-131.pdf
 * Gärningsmannaprofilen - (s. 140-141) https://gunnarwall.files.wordpress.com/2019/03/gmp-sid-140-141.pdf
+
+## Discussions
+* Mordet på Olof Palme - Flashback-tråd https://www.flashback.org/t133416
