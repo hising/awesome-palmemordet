@@ -1,18 +1,20 @@
 {
-    "timeline": {
-        "type": "event",
-        "label": "Olof Palme blir skjuten i ryggen",
-        "address": "Sveavägen / Tunnelgatan",
-        "latitude": 59.336599,
-        "longitude": 18.062742,
-        "time": "1986-02-28 23:21:20",
-        "accuracy": 10,
-        "tags": [
-            "Olof Palme",
-            "Lisbeth Palme",
-            "GM",
-            "OP",
-            "LP"
-        ]
-    }
+    "timeline": [
+        {
+            "type": "event",
+            "label": "Olof Palme blir skjuten i ryggen",
+            "address": "Sveavägen / Tunnelgatan",
+            "latitude": 59.336599,
+            "longitude": 18.062742,
+            "time": "1986-02-28 23:21:20",
+            "accuracy": 10,
+            "tags": [
+                "Olof Palme",
+                "Lisbeth Palme",
+                "GM",
+                "OP",
+                "LP"
+            ]
+        }
+    ]
 }
