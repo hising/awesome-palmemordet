@@ -14,7 +14,8 @@
                 "GM",
                 "OP",
                 "LP"
-            ]
+            ],
+            "reliability": 100
         }
     ]
 }
