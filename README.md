@@ -1,14 +1,15 @@
 # awesome-palmemordet
 
 ## Archives
-* https://moparkivet.wordpress.com/
+* MOP-arkivet https://moparkivet.wordpress.com/
 
 ## Articles
 * Filter - Skandiamannen https://magasinetfilter.se/reportage/59-minuter-som-forandrade-sverige/
 
 ## Blogs and Websites
-* https://gunnarwall.wordpress.com/
-* http://www.itdemokrati.nu/page36.html
+* Gunnar Wall https://gunnarwall.wordpress.com/
+* Lennart Renstam http://www.itdemokrati.nu/page36.html
+* Anders Leopold http://www.leopoldreport.com/
 
 ## Documents
 * Granskningskommissionens betänkande i anledning av Brottsutredningen efter mordet på statsminister Olof Palme (SOU 1999:88) https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/1999/01/sou-199988--/
