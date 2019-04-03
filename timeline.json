@@ -8,16 +8,11 @@
             "longitude": 18.0623829,
             "time": "1986-02-28 23:19:00",
             "accuracy": 60,
-            "people": [
-                "Stig E",
-                "Skandiamannen"
-            ],
+            "people": ["Stig E", "Skandiamannen"],
             "reliability": 100,
             "places": ["Sveavägen", "Skandiahuset"],
             "id": "skandiamannen-utgang",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         },
         {
             "type": "event",
@@ -27,17 +22,11 @@
             "longitude": 18.062742,
             "time": "1986-02-28 23:21:20",
             "accuracy": 10,
-            "people": [
-                "Olof Palme",
-                "Lisbeth Palme",
-                "GM"
-            ],
+            "people": ["Olof Palme", "Lisbeth Palme", "GM"],
             "reliability": 100,
             "places": ["Sveavägen", "Tunnelgatan", "Dekorima", "Mordplatsen"],
             "id": "mop",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         },
         {
             "type": "sighting",
@@ -47,35 +36,41 @@
             "longitude": 18.063769,
             "time": "1986-02-28 23:21:45",
             "accuracy": 10,
-            "people": [
-                "GM",
-                "Lars J"
-            ],
+            "people": ["GM", "Lars J"],
             "reliability": 100,
-            "places": ["Tunnelgatan", "Trapporna", "Flyktväg", "Baracker", "Luntmakargatan"],
+            "places": [
+                "Tunnelgatan",
+                "Trapporna",
+                "Flyktväg",
+                "Baracker",
+                "Luntmakargatan"
+            ],
             "id": "gm-flykt-lars-j",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         },
         {
             "type": "event",
             "label": "GM når trappkrönet vid korsningen Malmskillnadsgatan och David Bagares gata",
-            "address": ["Tunnelgatan", "Malmskillnadsgatan", "David Bagares gata"],
+            "address": [
+                "Tunnelgatan",
+                "Malmskillnadsgatan",
+                "David Bagares gata"
+            ],
             "latitude": 59.337098,
             "longitude": 18.064907,
             "time": "1986-02-28 23:22:10",
             "accuracy": 15,
-            "people": [
-                "GM",
-                "Lars J"
-            ],
+            "people": ["GM", "Lars J"],
             "reliability": 100,
-            "places": ["Tunnelgatan","Malmskillnadsgatan", "Trapporna", "Flyktväg", "David Bagares Gata"],
+            "places": [
+                "Tunnelgatan",
+                "Malmskillnadsgatan",
+                "Trapporna",
+                "Flyktväg",
+                "David Bagares Gata"
+            ],
             "id": "gm-flykt-trappa",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         },
         {
             "type": "event",
@@ -85,16 +80,11 @@
             "longitude": 18.0628,
             "time": "1986-02-28 23:22:20",
             "accuracy": 0,
-            "people": [
-                "Leif L",
-                "Jan A"
-            ],
+            "people": ["Leif L", "Jan A"],
             "reliability": 100,
             "places": ["Sveavägen", "Mordplatsen", "Tunnelgatan"],
             "id": "vittnen-larm-ett",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         },
         {
             "type": "event",
@@ -104,16 +94,11 @@
             "longitude": 18.0628,
             "time": "1986-02-28 23:23:40",
             "accuracy": 0,
-            "people": [
-                "Anders D",
-                "Växeltelefonist Järfälla Taxi"
-            ],
+            "people": ["Anders D", "Växeltelefonist Järfälla Taxi"],
             "reliability": 100,
             "places": ["Sveavägen", "Mordplatsen", "Tunnelgatan"],
             "id": "vittnen-larm-tva",
-            "sources": [
-                "LINKS TO RELIABLES SOURCES"
-            ]
+            "sources": ["LINKS TO RELIABLES SOURCES"]
         }
     ]
 }
