@@ -1,0 +1,22 @@
+{
+  "name": "awesome-palmemordet",
+  "version": "1.0.0",
+  "description": "## Archives * MOP-arkivet https://moparkivet.wordpress.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hising/awesome-palmemordet.git"
+  },
+  "author": "Mattias Hising <mattias@yetric.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hising/awesome-palmemordet/issues"
+  },
+  "homepage": "https://github.com/hising/awesome-palmemordet#readme",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
