@@ -2,8 +2,27 @@
     "timeline": [
         {
             "type": "event",
+            "label": "Stig E lämnar Skandia",
+            "address": ["Sveavägen 44"],
+            "latitude": 59.3371076,
+            "longitude": 18.0623829,
+            "time": "1986-02-28 23:19:00",
+            "accuracy": 60,
+            "people": [
+                "Stig E",
+                "Skandiamannen"
+            ],
+            "reliability": 100,
+            "places": ["Sveavägen", "Skandiahuset"],
+            "id": "skandiamannen-utgang",
+            "sources": [
+                "LINKS TO RELIABLES SOURCES"
+            ]
+        },
+        {
+            "type": "event",
             "label": "Olof Palme blir skjuten i ryggen",
-            "address": "Sveavägen / Tunnelgatan",
+            "address": ["Sveavägen", "Tunnelgatan"],
             "latitude": 59.336599,
             "longitude": 18.062742,
             "time": "1986-02-28 23:21:20",
@@ -18,6 +37,44 @@
             "reliability": 100,
             "places": ["Sveavägen", "Tunnelgatan", "Dekorima", "Mordplatsen"],
             "id": "mop",
+            "sources": [
+                "LINKS TO RELIABLES SOURCES"
+            ]
+        },
+        {
+            "type": "sighting",
+            "label": "Gärningsmannen passerar vittnet Lars Jeppsson och Luntmakargatan",
+            "address": ["Tunnelgatan", "Luntmakargatan"],
+            "latitude": 59.336874,
+            "longitude": 18.063769,
+            "time": "1986-02-28 23:21:45",
+            "accuracy": 10,
+            "people": [
+                "GM",
+                "Lars J"
+            ],
+            "reliability": 100,
+            "places": ["Tunnelgatan", "Trapporna", "Flyktväg", "Baracker", "Luntmakargatan"],
+            "id": "gm-flykt-lars-j",
+            "sources": [
+                "LINKS TO RELIABLES SOURCES"
+            ]
+        },
+        {
+            "type": "event",
+            "label": "GM når trappkrönet vid korsningen Malmskillnadsgatan och David Bagares gata",
+            "address": ["Tunnelgatan", "Malmskillnadsgatan", "David Bagares gata"],
+            "latitude": 59.337098,
+            "longitude": 18.064907,
+            "time": "1986-02-28 23:22:10",
+            "accuracy": 15,
+            "people": [
+                "GM",
+                "Lars J"
+            ],
+            "reliability": 100,
+            "places": ["Tunnelgatan","Malmskillnadsgatan", "Trapporna", "Flyktväg", "David Bagares Gata"],
+            "id": "gm-flykt-trappa",
             "sources": [
                 "LINKS TO RELIABLES SOURCES"
             ]
