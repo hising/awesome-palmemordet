@@ -78,6 +78,44 @@
             "sources": [
                 "LINKS TO RELIABLES SOURCES"
             ]
+        },
+        {
+            "type": "event",
+            "label": "Första samtalet till larmcentralen",
+            "address": ["Sveavägen", "Tunnelgatan"],
+            "latitude": 59.3366,
+            "longitude": 18.0628,
+            "time": "1986-02-28 23:22:20",
+            "accuracy": 0,
+            "people": [
+                "Leif L",
+                "Jan A"
+            ],
+            "reliability": 100,
+            "places": ["Sveavägen", "Mordplatsen", "Tunnelgatan"],
+            "id": "vittnen-larm-ett",
+            "sources": [
+                "LINKS TO RELIABLES SOURCES"
+            ]
+        },
+        {
+            "type": "event",
+            "label": "Järfälla Taxi larmar polis",
+            "address": ["Sveavägen", "Tunnelgatan"],
+            "latitude": 59.3366,
+            "longitude": 18.0628,
+            "time": "1986-02-28 23:23:40",
+            "accuracy": 0,
+            "people": [
+                "Anders D",
+                "Växeltelefonist Järfälla Taxi"
+            ],
+            "reliability": 100,
+            "places": ["Sveavägen", "Mordplatsen", "Tunnelgatan"],
+            "id": "vittnen-larm-tva",
+            "sources": [
+                "LINKS TO RELIABLES SOURCES"
+            ]
         }
     ]
 }
